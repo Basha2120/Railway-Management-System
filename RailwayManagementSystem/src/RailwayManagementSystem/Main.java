@@ -47,7 +47,7 @@ public class Main {
 		panel.setBackground(null);
 		panel.setBorder(BorderFactory.createEmptyBorder(50, 40, 30, 40));
 		
-		JLabel title = new JLabel("Welcome to Railway Management System");
+		JLabel title = new JLabel("Welcome to the Railway Management System");
 		title.setForeground(Color.decode("#012030"));
 		title.setFont(new Font(null, Font.BOLD, 35));
 		title.setHorizontalAlignment(SwingConstants.CENTER);
