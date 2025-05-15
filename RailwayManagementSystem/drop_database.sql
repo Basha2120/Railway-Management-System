@@ -1,0 +1,1 @@
+DROP DATABASE IF EXISTS railway_management_system; 
